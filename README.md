@@ -94,21 +94,3 @@ OpenSignals propose des outils pour analyser les signaux EMG, tels que des filtr
 
 OpenSignals permet également de créer des graphiques et des rapports d'analyse en utilisant les données collectées. Explorez les fonctionnalités d'OpenSignals pour personnaliser vos graphiques et visualiser les résultats sous forme de courbes, histogrammes, etc.
 
-## Étape 5 : Sauvegarde et partage des résultats
-
-### 5.1 Sauvegarder le projet
-
-1. Allez dans **Fichier** et sélectionnez **Sauvegarder le projet** pour conserver une copie de votre travail dans le format projet d'OpenSignals.
-2. Vous pouvez également sauvegarder les résultats sous différents formats d'exportation pour une analyse ultérieure.
-
-### 5.2 Partager les résultats
-
-Si vous souhaitez partager vos résultats avec d'autres chercheurs ou collègues, vous pouvez exporter les données ou les graphiques dans un format compatible, comme PDF, CSV ou PNG.
-
-## Conclusion
-
-Vous avez maintenant une compréhension complète de la manière de configurer, collecter et analyser les données d'un capteur EMG avec OpenSignals. Cette procédure vous permettra de réaliser des études sur les signaux musculaires et de les exploiter pour des projets de recherche ou des applications biomédicales.
-
----
-
-N'hésitez pas à adapter ce tutoriel en fonction de votre matériel spécifique et des fonctionnalités d'OpenSignals.
