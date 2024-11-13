@@ -93,4 +93,3 @@ OpenSignals propose des outils pour analyser les signaux EMG, tels que des filtr
 ### 4.3 Visualisation avancée
 
 OpenSignals permet également de créer des graphiques et des rapports d'analyse en utilisant les données collectées. Explorez les fonctionnalités d'OpenSignals pour personnaliser vos graphiques et visualiser les résultats sous forme de courbes, histogrammes, etc.
-
